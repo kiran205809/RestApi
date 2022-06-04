@@ -1,0 +1,10 @@
+/home/creatorshashiki/eclipse-workspace/RestAssuredProject/src/test/java/restAPI/PostRequest.java
+/home/creatorshashiki/eclipse-workspace/RestAssuredProject/src/test/java/restAPI/PutRequest.java
+/home/creatorshashiki/eclipse-workspace/RestAssuredProject/src/test/java/restAPI/PostRequestWithMap.java
+/home/creatorshashiki/eclipse-workspace/RestAssuredProject/src/test/java/restAPI/DeleteRequest.java
+/home/creatorshashiki/eclipse-workspace/RestAssuredProject/src/test/java/restAPI/RestApi.java
+/home/creatorshashiki/eclipse-workspace/RestAssuredProject/src/test/java/restAPI/GetRequestWithParams.java
+/home/creatorshashiki/eclipse-workspace/RestAssuredProject/src/test/java/restAPI/GetRequest.java
+/home/creatorshashiki/eclipse-workspace/RestAssuredProject/src/test/java/restAPI/PostRequestWithFile.java
+/home/creatorshashiki/eclipse-workspace/RestAssuredProject/src/test/java/APIChaining/EndToEndTest.java
+/home/creatorshashiki/eclipse-workspace/RestAssuredProject/src/test/java/restAPI/PostRequestWithJsonObject.java
